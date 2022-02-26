@@ -19,6 +19,6 @@ Refactoring is basically tweaking our existing code to run more efficiently. We 
 
 I did not see any improved performance in the timer for the refactored code. In fact, it seemed the non refactored code was slightly faster for non refactored code in the 2017 analysis. See timer screenshots in Module 2 VBA Challenge folder for png files with timer in the name. 
 
-![This is an image](/MODULE 2 VBA Challenge-Resources/VBA_Challenge_2017_Timer.png)
+![This is an image](https://github.com/TraceyFitz/stock-analysis/blob/6924fca97fb747a9fda55adc4c941eec55309f7d/MODULE%202%20VBA%20Challenge-Resources/VBA_Challenge_2017_Timer.png)
 
 
