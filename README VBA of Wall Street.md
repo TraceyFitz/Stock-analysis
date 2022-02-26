@@ -22,15 +22,15 @@ Refactoring is basically tweaking our existing code to run more efficiently. We 
 
 I did not see much of an improved performance in the timer for the refactored code. In fact, it seemed the non refactored code was slightly faster than refactored code in the 2017 analysis. Refactored code for 2017 and 2018 were both timed at .07421875. The non refactored code for 2017 was slightly faster on the timer at .078125, but 2018 was the same. See timer screenshots in Module 2 VBA Challenge folder for png files with timer in the name on GIT or reference below. 
 
-Refactored All Stock Analysis Code 2017 timer:
+Refactored All Stock Analysis Code 2017 Timer:
 ![This is an image](https://github.com/TraceyFitz/stock-analysis/blob/6924fca97fb747a9fda55adc4c941eec55309f7d/MODULE%202%20VBA%20Challenge-Resources/VBA_Challenge_2017_Timer.png)
 
-Refactored All Stock Analysis Code 2018 timer:
-![This is an image](https://github.com/TraceyFitz/stock-analysis/blob/14b31e11af06011b0e0d8119756f69372e18214c/MODULE%202%20VBA%20Challenge-Resources/VBA_Challenge_2018.png)
+Refactored All Stock Analysis Code 2018 Timer:
+![This is an image](https://github.com/TraceyFitz/stock-analysis/blob/9d08b3d0c311c62832c61f97612f0b7b78eb40ec/MODULE%202%20VBA%20Challenge-Resources/VBA_Challenge_2018_Timer.png)
 
 
-All Stock Analysis 2017
+Non Refactored All Stock Analysis 2017 Timer:
 ![This is an image](https://github.com/TraceyFitz/stock-analysis/blob/14b31e11af06011b0e0d8119756f69372e18214c/MODULE%202%20VBA%20Challenge-Resources/VBA_Challenge_Nonrefactored_code_2017_Timer.png)
 
-All Stock Analysis 2018
-![This is an image](https://github.com/TraceyFitz/stock-analysis/blob/14b31e11af06011b0e0d8119756f69372e18214c/MODULE%202%20VBA%20Challenge-Resources/VBA_Challenge_Nonrefactored_code_2018_Timer%20.png
+Non Refactored All Stock Analysis 2018 Timer:
+![This is an image](https://github.com/TraceyFitz/stock-analysis/blob/14b31e11af06011b0e0d8119756f69372e18214c/MODULE%202%20VBA%20Challenge-Resources/VBA_Challenge_Nonrefactored_code_2018_Timer%20.png)
